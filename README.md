@@ -1,2 +1,2 @@
-# Compiler
-We implemented lexical-syntax analyzer and intermediate code genuation
+# George Dimopoulos
+# georgios.as.dimopoulos@gmail.com
